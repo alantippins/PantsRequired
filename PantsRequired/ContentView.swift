@@ -10,7 +10,7 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        Text("Hello, World!")
+        Text("Good morning! May I suggest wearing pants before your call?")
             .frame(maxWidth: .infinity, maxHeight: .infinity)
     }
 }
